@@ -1,0 +1,13 @@
+# Python 3.11
+numpy==2.2.6
+scipy==1.16.0
+scikit-learn==1.7.1
+joblib==1.5.3
+torch==2.11.0
+transformers==5.9.0
+accelerate==1.9.0
+tokenizers==0.22.2
+safetensors==0.5.3
+huggingface-hub==1.15.0
+# guard baselines, pair scores and the case study
+vllm==0.21.0
